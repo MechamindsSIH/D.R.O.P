@@ -16,7 +16,7 @@
 
 ## 🎯 The Problem
 
-Deep-sea mineral exploration today is **slow, blind, or expensive**.
+Deep-sea mineral exploration today is **slow, blind, and expensive**.
 
 | Reality | Impact |
 |---|---|
