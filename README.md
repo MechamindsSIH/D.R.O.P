@@ -46,7 +46,7 @@ As the host vehicle flies a standard **lawnmower survey pattern** over the seafl
 
 ---
 
-## 🔬 How It Senses Each Minequels
+## 🔬 How It Senses Each Minerals
 
 Instead of one instrument stretched thin across four problems, **each deposit type is sensed by the one physical signature that actually distinguishes it.**
 
